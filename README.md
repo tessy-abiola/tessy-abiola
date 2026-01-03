@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Testimony.
-I am a Frontend Developer passionate about creating responsive, user-friendly, and high-performance web applications. I specialize in building intuitive interfaces with React, Next.js, and TypeScript, while ensuring accessibility, clean code, and seamless user experiences. I enjoy collaborating with teams and continuously learning to improve my craft.
+I am a Full-Stack Web Developer passionate about building responsive, user-friendly, and high-performance web applications. I specialize in creating intuitive interfaces with React, Next.js, and TypeScript, while also developing scalable backend solutions and APIs. I focus on clean, maintainable code, accessibility, and seamless end-to-end user experiences. I enjoy collaborating with cross-functional teams and continuously learning to improve both my frontend and backend skills.
 <hr>
 
  🔭 Currently Working On 
